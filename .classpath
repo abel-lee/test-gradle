@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer" exported="true"/>
+	<classpathentry kind="con" path="org.springsource.ide.eclipse.gradle.dsld.classpathcontainer"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry sourcepath="F:/javaRepo/commons-collections/commons-collections/3.2/commons-collections-3.2-sources.jar" kind="lib" path="F:/javaRepo/commons-collections/commons-collections/3.2/commons-collections-3.2.jar" exported="true"/>
+	<classpathentry sourcepath="F:/javaRepo/org/freemarker/freemarker/2.3.19/freemarker-2.3.19-sources.jar" kind="lib" path="F:/javaRepo/org/freemarker/freemarker/2.3.19/freemarker-2.3.19.jar" exported="true"/>
+	<classpathentry sourcepath="F:/javaRepo/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.1.2/jackson-dataformat-csv-2.1.2-sources.jar" kind="lib" path="F:/javaRepo/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.1.2/jackson-dataformat-csv-2.1.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="F:/javaRepo/junit/junit/4.11/junit-4.11.jar" exported="true"/>
+	<classpathentry sourcepath="F:/javaRepo/com/fasterxml/jackson/core/jackson-core/2.1.2/jackson-core-2.1.2-sources.jar" kind="lib" path="F:/javaRepo/com/fasterxml/jackson/core/jackson-core/2.1.2/jackson-core-2.1.2.jar" exported="true"/>
+	<classpathentry sourcepath="F:/javaRepo/com/fasterxml/jackson/core/jackson-annotations/2.1.1/jackson-annotations-2.1.1-sources.jar" kind="lib" path="F:/javaRepo/com/fasterxml/jackson/core/jackson-annotations/2.1.1/jackson-annotations-2.1.1.jar" exported="true"/>
+	<classpathentry sourcepath="F:/javaRepo/com/fasterxml/jackson/core/jackson-databind/2.1.2/jackson-databind-2.1.2-sources.jar" kind="lib" path="F:/javaRepo/com/fasterxml/jackson/core/jackson-databind/2.1.2/jackson-databind-2.1.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="F:/javaRepo/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" exported="true"/>
+</classpath>
